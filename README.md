@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevguruAnanth
 - 👀 I’m interested in WebDevlopment
-- 🌱 I’m currently learning Flask And Django
+- 🌱 I’m currently learning React
 - 💞️ I’m just a begginer
 
 <!---
